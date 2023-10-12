@@ -185,3 +185,6 @@ POST /api/v1/users/ - Добавление пользователя
 Права доступа: Администратор
 GET /api/v1/users/{username}/ - Получение пользователя по username
 ```
+
+Полный рабочий проект:
+https://github.com/ASguard71/api_yamdb
